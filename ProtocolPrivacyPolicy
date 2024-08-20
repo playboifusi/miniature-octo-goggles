@@ -1,0 +1,38 @@
+# **Privacy Policy for Protocol**
+
+**Effective Date:** 8/20/24
+
+Thank you for using Protocol. This Privacy Policy explains how we collect, use, and protect your information when you interact with our bot within Discord.
+
+## **1. Information We Collect**
+Protocol only collects the information necessary to generate ban logs within your Discord server. The specific data collected includes:
+- **Username:** The username of the individual being banned.
+- **UserID:** The unique Discord ID of the individual being banned.
+- **Reason for Ban:** The reason provided by the server moderators for banning the user.
+- **Evidence:** Optional evidence linked or provided by the moderators to justify the ban.
+- **Ban Duration:** The length of the ban, if applicable.
+- **Ban Alts:** An indicator of whether the ban is related to alternate accounts.
+
+This information is provided directly by users through bot commands and is not automatically collected by Protocol.
+
+## **2. How We Use Your Information**
+The information collected by Protocol is used exclusively for generating ban logs within the Discord server where the command was executed. The bot does not transmit, store, or share this data outside of the Discord environment. 
+
+## **3. Data Storage and Security**
+Protocol does not store any data outside of the Discord server. All information is logged and stored within the server according to the configuration set by the server administrators. The bot does not have any external databases or storage mechanisms.
+
+## **4. Sharing Your Information**
+Protocol does not share your information with any third parties. All data remains within the Discord server where the bot is used and is accessible only to users with the appropriate permissions within that server.
+
+## **5. Data Retention**
+Since Protocol does not store any data outside of the Discord server, data retention is entirely managed by the server administrators. If you wish to remove ban logs or other data, please contact your server administrators directly.
+
+## **6. Changes to This Privacy Policy**
+We may update this Privacy Policy from time to time to reflect changes in our practices or for other operational, legal, or regulatory reasons. If any significant changes are made, a notification will be posted in the server where Protocol is used.
+
+## **7. Your Rights**
+As Protocol does not collect or store personal information beyond what is necessary for its function, users do not have the right to request deletion or modification of data through the bot. Any requests related to data must be directed to the server administrators.
+
+---
+
+By using Protocol, you agree to the terms outlined in this Privacy Policy.
